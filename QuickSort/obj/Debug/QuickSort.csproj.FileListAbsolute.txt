@@ -1,0 +1,18 @@
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.Properties.Resources.resources
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.GenerateResource.Cache
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+c:\users\kamson8\documents\visual studio 2015\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Kamson8\Documents\Visual Studio 2015\Projects\QuickSort\QuickSort\obj\Debug\QuickSortBubbleSort.Form1.resources
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\obj\Debug\QuickSortBubbleSort.Form1.resources
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\obj\Debug\QuickSort.Properties.Resources.resources
+C:\Users\Kamson8\Desktop\projekty\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.GenerateResource.Cache
